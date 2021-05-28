@@ -1,0 +1,37 @@
+
+    
+header {
+    font-family: 'Montserrat', sans-serif;
+}
+.wrapper{
+    width: 1410px;
+    margin: 0 auto;
+}
+.menu a, .phone a, .time {
+    color: #121212;
+}
+.menu ul {
+    display: flex;
+}
+.menu li {
+    margin-right: 30px;
+    font-size: 18px;
+    margin-top: 52px;
+    font-weight: 400;
+}
+.nav {
+    display: flex;
+}
+.logo {
+    margin-right: 78px;
+    margin-top: 37px;
+}
+.phone {
+    margin-top: 52px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.time {
+    font-size: 12px;
+    font-weight: 400;
+}
